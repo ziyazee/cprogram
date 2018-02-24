@@ -2,6 +2,6 @@
 
 int main() {
   printf("Hello junaid");
-  // comment
+  // comme nt
   return 0;
 }
