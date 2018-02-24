@@ -5,4 +5,4 @@ I edited it twice
 it does
  - It has two lines
  - compile it with gcc
- - then type ./a.out in terminal
+ - then type `./a.out` in terminal
